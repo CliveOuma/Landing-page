@@ -18,4 +18,4 @@ The Laptop Landing Page is a project aimed at learning and demonstrating the usa
 To run the project locally, follow these steps:
 
 1. Clone the repository:
-   git clone https://github.com/CliveOuma/Laptop-Landing-Page.git
+   git clone https://github.com/cliveouma/Laptop-Landing-Page.git
