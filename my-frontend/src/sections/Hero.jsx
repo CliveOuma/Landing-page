@@ -1,5 +1,5 @@
 import { statistics } from "../constants";
-import {  lapi3 } from "../assets/images";
+import { lapi3 } from "../assets/images";
 import { arrowRight } from "../assets/icons";
 import Button from "../components/Button";
 
@@ -18,7 +18,7 @@ const Hero = () => {
           <span className='text-orange-400 inline-block mt-1'>Amazing</span> Laptops
         </h1>
         <p className='font-montserrat text-slate-gray text-lg leading-8 mt-6 mb-14 sm:max-w-sm'>
-        Get Affordable and advanced Laptops, high quality that could serve your online need with ease.</p>
+          Get Affordable and advanced Laptops, high quality that could serve your online need with ease.</p>
 
         <Button label='Shop now' iconURL={arrowRight} />
 
@@ -41,10 +41,10 @@ const Hero = () => {
           height={300}
           className='object-contain relative z-10  mb-2 '
         />
-        </div>
+      </div>
 
-      
-      
+
+
     </section>
   );
 };
