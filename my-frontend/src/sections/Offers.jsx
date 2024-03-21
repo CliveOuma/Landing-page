@@ -7,8 +7,8 @@ const Offers = () => {
     <section className='flex items-center justify-wrap gap-10 max-container max-xl:flex-col-reverse'>
       <div className='flex-1'>
         <img src={lapi9}
-        height={680}
-        width={770}
+        height={300}
+        width={300}
         className='object-contain w-full'/>
       </div>
       <div className='flex flex-1 flex-col'>

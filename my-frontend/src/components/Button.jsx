@@ -8,7 +8,7 @@ const Button = ({label, iconURL}) => {
         {/*when there is an image*/}
         {iconURL &&
         <img src={iconURL} alt='arrow right icon'
-        className='ml-2 rounded-full w-5 h-5'/>
+        className='ml-2 rounded-full w-4 h-4'/>
         }
 
     </button>
